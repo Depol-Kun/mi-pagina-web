@@ -1,0 +1,65 @@
+body {
+background: linear-gradient(to right,#e6f7ff, #f0f8ff);
+
+}
+.container {
+
+padding: 25px;
+margin: 20px auto;
+border: 2px dashed #4da6ff;
+border-radius: 15px;
+box-shadow: 0 4px 8px rgba(0, 120, 255, 0.1);
+
+}
+
+#principal h2 {
+Color: #0066cc;
+font-size: 28px;
+text-decoration: underline dotted;
+
+}
+#principal h3 {
+Color: #0099ff;
+font-size: 20px;
+font-style: italic;
+
+}
+#principal p { 
+Color: #0099ff;
+font-size: 17px;
+line-height: 1.6;
+
+}
+img {
+    border: 3px solid;
+    border-radius: 8px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    
+
+}
+button {
+padding: 12px 25px;
+margin: 10px;
+border: none;
+border-radius: 7px;
+Cursor: pointer;
+transition: all 0.3s ease;
+
+}
+#miBoton {
+background-color: #00a550;
+color: white;
+}
+
+#miBoton2 {
+background-color: #ff8b00;
+color: white;
+
+}
+
+#miBoton2:hover{
+background-color:#e05d00 ;
+
+
+}
